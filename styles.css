@@ -1,0 +1,32 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color:lightyellow;
+}
+
+h2{
+    background-color:lightgreen;
+    display: inline-block;
+    padding: 3px;
+}
+
+h2:hover{
+    color:palegreen;
+}
+
+.AboutMe{
+    background-color:lightsalmon;
+    color:black;
+    padding: 10px;
+    display: inline-block;
+}
+
+.AboutMe:hover{
+    color:lightblue;
+}
+
+.links{
+    text-align: center;
+}
